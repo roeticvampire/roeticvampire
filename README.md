@@ -1,4 +1,4 @@
-## Hi there, I'm Syed 👋
+# Hi there, I'm Syed 👋
 ## I'm the faltering jack of several trades, struggling to find an identity in one!🤦‍♂️
 <img src="https://github-readme-stats.vercel.app/api?username=roeticvampire&count_private=true&theme=tokyonight&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeticvampire&count_private=true&theme=tokyonight&show_icons=true&layout=compact">
