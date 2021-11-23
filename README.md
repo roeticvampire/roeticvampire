@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # Hi there, I'm Syed 👋
-## Gamer | Android/Unity | UI/UX | Professional crackhead🤦‍♂️
+### Gamer | Android/Unity | UI/UX | Professional crackhead🤦‍♂️
 
 ###### sometimes I release stuff
 [![itch](	https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://roetron.itch.io/) 
@@ -45,8 +45,6 @@ ___
 
 ![Profile views](https://komarev.com/ghpvc/?username=roeticvampire&color=blue)
 
-
-___
 
 ## 📫 Wanna catch up? 
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosyedalihaider@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ahaider/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__roet)[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:syedahaider@outlook.com)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/524263161239568385/)
